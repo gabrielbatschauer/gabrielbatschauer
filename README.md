@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=9ECAE1&text=Gabriel%20Batschauer&fontColor=fff&fontAlignY=50&fontSize=20&animation=twinkling&descAlign=50&descSize=20&reversal=false&fontAlign=80&descAlignY=50&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=50&color=9ECAE1&text=Gabriel%20Batschauer&fontColor=fff&fontAlignY=50&fontSize=20&descAlign=50&descSize=20&reversal=false&fontAlign=80&descAlignY=50&textBg=false"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=9ECAE1&fontColor=ffffff&fontAlignY=50&fontSize=70&descAlign=50&descSize=20&reversal=false&fontAlign=50&descAlignY=50&textBg=false"/>
 
 
@@ -8,7 +8,7 @@
   <img
     width="45%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbatschauer&layout=compact&hide_border=true&title_color=9ecae1&text_color=fff&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbatschauer&layout=compact&hide_border=true&title_color=9ecae1&text_color=fff&bg_color=0d1117&exclude_repo=site-acapra"
     alt=""
   />
 </div>
@@ -26,8 +26,7 @@
  
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
